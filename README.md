@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--**About Me  💬**
 Hello! Fele Ayodeji, I'm a frontend developer with a strong passion for creating dynamic and user-friendly web applications. I'm also deeply interested in Web3 and AI technologies, constantly exploring how they can be integrated to create innovative, decentralized solutions.
