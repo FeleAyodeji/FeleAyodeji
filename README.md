@@ -14,6 +14,7 @@ Hello! Fele Ayodeji, I'm a frontend developer with a strong passion for creating
 - Reactjs
 - Vite
 - TailwindCss
+- Supabase
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feleayodeji&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
