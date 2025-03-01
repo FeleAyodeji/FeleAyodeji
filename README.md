@@ -9,6 +9,7 @@ Hello! Fele Ayodeji, I'm a frontend developer with a strong passion for creating
   - HTML
   - CSS
   - JavaScript
+  - JAva
 
 **Libraries and Frameworks ⚡** 
 - Reactjs
