@@ -13,7 +13,7 @@ Hello! Fele Ayodeji, I'm a front-end developer with a strong passion for creatin
 
 **Libraries and Frameworks ⚡** 
 - Reactjs
-- ReactNative
+- React-Native
 - Springboot
 - Vite
 - TailwindCss
