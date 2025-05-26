@@ -1,13 +1,13 @@
 
 **About Me 💬**
 
-Hello! I'm Fele Ayodeji, a full-stack developer with a strong passion for creating dynamic and user-friendly web applications. I'm also deeply interested in Web3 and AI technologies, constantly exploring how they can be integrated to create innovative, decentralized solutions.
+Hi there! I’m Fele Ayodeji, a full-stack developer passionate about building dynamic, user-friendly web applications. I’m especially excited about Web3 and AI technologies, always exploring new ways to combine them and create innovative, decentralized solutions.
 
 **Skills & Expertise ⚡** 
 
 **Languages**
-  - HTML
-  - CSS
+  - HTML5
+  - CSS3
   - JavaScript
   - Java
 
