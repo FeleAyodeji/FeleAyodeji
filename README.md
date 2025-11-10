@@ -9,6 +9,7 @@ Hi there! I’m Fele Ayodeji, a full-stack developer passionate about building d
   - HTML5
   - CSS3
   - JavaScript
+  - Typescript
   - Java
 
 **Libraries and Frameworks ⚡** 
